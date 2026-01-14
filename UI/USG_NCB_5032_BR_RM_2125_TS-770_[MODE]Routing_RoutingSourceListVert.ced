@@ -8,16 +8,16 @@ VTProeVer=6.2.02
 ]
 [
 ObjTp=Symbol
-Name=USG_NCB_5032_BR_RM_2125_TS_770_[MODE]Routing_RoutingSourceListHori.ced
-Hint=RoutingSourceListHori (Smart Object ID=7)
+Name=USG_NCB_5032_BR_RM_2125_TS-770_[MODE]Routing_RoutingSourceListVert.ced
+Hint=RoutingSourceListVert (Smart Object ID=7)
 Code=3
-SGControlType=Subpage Reference List Horizontal
-SGControlName=RoutingSourceListHori
-GUID=E75468E4-DD93-4D9A-BF66-62B854410D1C
-SmplCName=USG_NCB_5032_BR_RM_2125_TS_770_[MODE]Routing_RoutingSourceListHori.ced
+SGControlType=Subpage Reference List Vertical
+SGControlName=RoutingSourceListVert
+GUID=9795B7CF-AADB-4987-8D17-5155CABC7223
+SmplCName=USG_NCB_5032_BR_RM_2125_TS-770_[MODE]Routing_RoutingSourceListVert.ced
 SMWRev=4.02.20
 Expand=expand_random
-HelpID=10124
+HelpID=10125
 Render=8
 ;Define the number of inputs, outputs and parameters
 MinVariableInputs=4026
@@ -357,7 +357,7 @@ Sgn=0
 [
 ObjTp=CED
 H=3
-Name=USG_NCB_5032_BR_RM_2125_TS_770_[MODE]Routing_RoutingSourceListHori.ced
+Name=USG_NCB_5032_BR_RM_2125_TS-770_[MODE]Routing_RoutingSourceListVert.ced
 ;Cedver is the version of the Smart Graphics control, not the CED file format.
 ;If the control definition changes, increment this.
 CedVer=1

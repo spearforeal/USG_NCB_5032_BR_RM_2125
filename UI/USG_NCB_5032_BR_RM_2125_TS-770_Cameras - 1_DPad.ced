@@ -8,13 +8,13 @@ VTProeVer=6.2.02
 ]
 [
 ObjTp=Symbol
-Name=USG_NCB_5032_BR_RM_2125_TS_770_Cameras - 1_DPad.ced
+Name=USG_NCB_5032_BR_RM_2125_TS-770_Cameras - 1_DPad.ced
 Hint=DPad (Smart Object ID=3)
 Code=1
 SGControlType=DPad
 SGControlName=DPad
 GUID=E2B2F93E-48E8-45E7-8457-C0357993B698
-SmplCName=USG_NCB_5032_BR_RM_2125_TS_770_Cameras - 1_DPad.ced
+SmplCName=USG_NCB_5032_BR_RM_2125_TS-770_Cameras - 1_DPad.ced
 SMWRev=4.02.19
 Expand=expand_random
 HelpID=10015
@@ -77,7 +77,7 @@ Sgn=0
 [
 ObjTp=CED
 H=1
-Name=USG_NCB_5032_BR_RM_2125_TS_770_Cameras - 1_DPad.ced
+Name=USG_NCB_5032_BR_RM_2125_TS-770_Cameras - 1_DPad.ced
 ;Cedver is the version of the Smart Graphics control, not the CED file format.
 ;If the control definition changes, increment this.
 CedVer=1
