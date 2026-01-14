@@ -8,13 +8,13 @@ VTProeVer=6.2.02
 ]
 [
 ObjTp=Symbol
-Name=USG_NCB_5032_BR_RM_2125_XPanel_[MODE]Routing_RoutingSourceListHori.ced
-Hint=RoutingSourceListHori (Smart Object ID=7)
-Code=3
+Name=USG_NCB_5032_BR_RM_2125_XPanel_Throwaway_RoutingSourceListHori.ced
+Hint=RoutingSourceListHori (Smart Object ID=8)
+Code=7
 SGControlType=Subpage Reference List Horizontal
 SGControlName=RoutingSourceListHori
-GUID=E75468E4-DD93-4D9A-BF66-62B854410D1C
-SmplCName=USG_NCB_5032_BR_RM_2125_XPanel_[MODE]Routing_RoutingSourceListHori.ced
+GUID=541E77A7-0CD7-46A3-96A2-CA8A0A3EC12B
+SmplCName=USG_NCB_5032_BR_RM_2125_XPanel_Throwaway_RoutingSourceListHori.ced
 SMWRev=4.02.20
 Expand=expand_random
 HelpID=10124
@@ -336,17 +336,17 @@ OutputList3SigType22=Serial
 ParamCue1=SmartObjectId
 ParamSigType1=Constant
 MPp=1
-Pp1=3
-CedH=3
-SmartObjId=7d
+Pp1=7
+CedH=7
+SmartObjId=8d
 ]
 ; Parameter Properties for Smart Object ID
 [
 ObjTp=Dp
-H=3
+H=7
 Tp=1
 HD=TRUE
-DV=7d
+DV=8d
 NF=1
 DNF=1
 EncFmt=0
@@ -356,8 +356,8 @@ Sgn=0
 ; Smart Objects Definition section
 [
 ObjTp=CED
-H=3
-Name=USG_NCB_5032_BR_RM_2125_XPanel_[MODE]Routing_RoutingSourceListHori.ced
+H=7
+Name=USG_NCB_5032_BR_RM_2125_XPanel_Throwaway_RoutingSourceListHori.ced
 ;Cedver is the version of the Smart Graphics control, not the CED file format.
 ;If the control definition changes, increment this.
 CedVer=1
